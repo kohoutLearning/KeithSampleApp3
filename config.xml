@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget
+    xmlns       = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.keithkohout.apps"
+    versionCode = "1"
+    version     = "0.0.1">
+
+    <name>Keiths Simple App.3</name>
+
+    <description>
+        Example of a simple web app.
+    </description>
+
+    <author
+        href="http://keithkohout.com"
+        email="apps@keithkohot.com">
+        Jonathan Stark
+    </author>
+
+    <preference name="permissions" value="none"/>
+
+</widget>
